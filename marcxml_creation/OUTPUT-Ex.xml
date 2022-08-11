@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s2006    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">426086773</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="0" ind2="0" tag="245">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">aḵk : tēciya virutu peṟṟa kalai ilakkiya ciṟṟitaḻ tokuppu</subfield>
+      </datafield>
+      <datafield ind1="0" ind2="0" tag="880">
+         <subfield code="6">245-01</subfield>
+         <subfield code="a">அஃக் : தேசிய விருது பெற்ற கலை இலக்கிய சிற்றிதழ் தொகுப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-02</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-03</subfield>
+         <subfield code="b">cantiyā patippakam</subfield>
+         <subfield code="a">ceṉṉai</subfield>
+         <subfield code="a">Chennai</subfield>
+         <subfield code="c">2006</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-03</subfield>
+         <subfield code="b">சந்தியா பதிப்பகம்</subfield>
+         <subfield code="a">சென்னை</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">736 pages</subfield>
+         <subfield code="b">illustrations</subfield>
+         <subfield code="c">22 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="520">
+         <subfield code="a">தேசிய விருது பெற்ற கலை இலக்கிய சிற்றிதழ் தொகுப்பு.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Tamil literature.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="700">
+         <subfield code="6">880-04</subfield>
+         <subfield code="a">parantāmaṉ, eṉ.</subfield>
+         <subfield code="e">tokuppāciriyar</subfield>
+         <subfield code="e">editor</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">700-04</subfield>
+         <subfield code="a">பரந்தாமன், என்.</subfield>
+         <subfield code="e">தொகுப்பாசிரியர்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570297</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s1998    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">423047283</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">akattiyaliṅkam, cu. po.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அகத்தியலிங்கம், சு. பொ.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">viṭutalait taḻumpukaḷ : intiya cutantira varalāṟu</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">விடுதலைத் தழும்புகள் : இந்திய சுதந்திர வரலாறு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">tamiḻp puttakālayam</subfield>
+         <subfield code="a">ceṉṉai</subfield>
+         <subfield code="a">Chennai</subfield>
+         <subfield code="c">1998</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">தமிழ்ப் புத்தகாலயம்</subfield>
+         <subfield code="a">சென்னை</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">[652] pages</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="500">
+         <subfield code="6">880-05</subfield>
+         <subfield code="a">poṉṉappapiḷḷai, cu.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">500-05</subfield>
+         <subfield code="a">பொன்னப்பபிள்ளை, சு.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">History.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570289</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s1999    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">308623070</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="0" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">akaḷaṅkaṉ</subfield>
+      </datafield>
+      <datafield ind1="0" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அகளங்கன்</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">kaviñar ஜிṉṉāhviṉ iraṭṭaik kāppiyaṅkaḷ : ōr āyvu</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">கவிஞர் ஜின்னாஹ்வின் இரட்டைக் காப்பியங்கள் : ஓர் ஆய்வு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">aṉṉai veḷiyīṭṭakam</subfield>
+         <subfield code="a">tekivaḷai</subfield>
+         <subfield code="a">Dehiwala</subfield>
+         <subfield code="c">1999</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">அன்னை வெளியீட்டகம்</subfield>
+         <subfield code="a">தெகிவளை</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">xvi, 104 pages</subfield>
+         <subfield code="c">18 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="500">
+         <subfield code="6">880-05</subfield>
+         <subfield code="a">tarmarāஜா, eṉ.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">500-05</subfield>
+         <subfield code="a">தர்மராஜா, என்.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Tamil literature.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570271</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s2010    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">950480378</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="0" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">acōkamittiraṉ</subfield>
+      </datafield>
+      <datafield ind1="0" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அசோகமித்திரன்</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">yuttaṅkaḷukkiṭaiyil...</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">யுத்தங்களுக்கிடையில்...</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">narmatā patippakam</subfield>
+         <subfield code="a">ceṉṉai</subfield>
+         <subfield code="a">Chennai</subfield>
+         <subfield code="c">2010</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">நர்மதா பதிப்பகம்</subfield>
+         <subfield code="a">சென்னை</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">111 pages</subfield>
+         <subfield code="c">22 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="500">
+         <subfield code="6">880-05</subfield>
+         <subfield code="a">tiyākarāஜṉ, ஜ.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">500-05</subfield>
+         <subfield code="a">தியாகராஜன், ஜ.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="520">
+         <subfield code="a">Story of a family's survival through the Sri Lankan civil war.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Fiction.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570206</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s2008    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">963222141</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">atiyamāṉ, paḻa.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அதியமான், பழ.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">cakti vai. kōvintaṉ : tamiḻiṉ muṉṉōṭip patippāḷumai</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">சக்தி வை. கோவிந்தன் : தமிழின் முன்னோடிப் பதிப்பாளுமை</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">kālaccuvaṭu patippakam</subfield>
+         <subfield code="a">nākarkōvil</subfield>
+         <subfield code="a">Nagercoil</subfield>
+         <subfield code="c">2008</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">காலச்சுவடு பதிப்பகம்</subfield>
+         <subfield code="a">நாகர்கோவில்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">232 pages</subfield>
+         <subfield code="c">22 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Biography.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570214</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s2007    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">969648610</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="0" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">ampai</subfield>
+      </datafield>
+      <datafield ind1="0" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அம்பை</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">ampai ciṟukataikaḷ : 1972 - 2000</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">அம்பை சிறுகதைகள் : 1972 - 2000</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">kālaccuvaṭu patippakam</subfield>
+         <subfield code="a">nākarkōvil</subfield>
+         <subfield code="a">Nagercoil</subfield>
+         <subfield code="c">2007</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">காலச்சுவடு பதிப்பகம்</subfield>
+         <subfield code="a">நாகர்கோவில்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">517 pages</subfield>
+         <subfield code="c">21 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="500">
+         <subfield code="6">880-05</subfield>
+         <subfield code="a">lak‌ṣmi, ci. es.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">500-05</subfield>
+         <subfield code="a">லக்‌ஷ்மி, சி. எஸ்.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="520">
+         <subfield code="a">Selected short stories of a Tamil woman author.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Short stories.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570222</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s1999    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">423036230</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">aruṇācalam, ka.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அருணாசலம், க.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">ilaṅkaiyiṉ malaiyakat tamiḻ nāvalkaḷ : ōr aṟimukam</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">இலங்கையின் மலையகத் தமிழ் நாவல்கள் : ஓர் அறிமுகம்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">kumaraṉ puttaka illam</subfield>
+         <subfield code="a">koḻumpu - ceṉṉai</subfield>
+         <subfield code="a">Colombo - Chennai</subfield>
+         <subfield code="c">1999</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">குமரன் புத்தக இல்லம்</subfield>
+         <subfield code="a">கொழும்பு - சென்னை</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">537 pages</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Tamil literature.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570230</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s2003    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">308870512</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">ayyaṉār, pe.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அய்யனார், பெ.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">alai puraḷum vāḻkkai : ceṉṉai - cila cittiraṅkaḷ</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">அலை புரளும் வாழ்க்கை : சென்னை - சில சித்திரங்கள்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">kālaccuvaṭu patippakam</subfield>
+         <subfield code="a">nākarkōvil</subfield>
+         <subfield code="a">Nagercoil</subfield>
+         <subfield code="c">2003</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">காலச்சுவடு பதிப்பகம்</subfield>
+         <subfield code="a">நாகர்கோவில்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">127 pages</subfield>
+         <subfield code="c">22 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Urbanization.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570248</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s2001    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">422852921</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">aylayyā, kāñcā</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">அய்லய்யா, காஞ்சா</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">nāṉ ēṉ intu alla : intuttuvā paṟṟiya oru cūttira vimarcaṉam : tattuvam, paṇpāṭu maṟṟum araciyaṟ poruḷātāram</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">நான் ஏன் இந்து அல்ல : இந்துத்துவா பற்றிய ஒரு சூத்திர விமர்சனம் : தத்துவம், பண்பாடு மற்றும் அரசியற் பொருளாதாரம்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">aṭaiyāḷam veḷiyīṭu</subfield>
+         <subfield code="a">puttānattam</subfield>
+         <subfield code="a">Puthanatham</subfield>
+         <subfield code="c">2001</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">அடையாளம் வெளியீடு</subfield>
+         <subfield code="a">புத்தாநத்தம்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">183 pages</subfield>
+         <subfield code="c">21 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Hinduism.</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="700">
+         <subfield code="6">880-05</subfield>
+         <subfield code="a">murukupāṇṭiyaṉ, rāஜvēl|taṅkavēlu, mu.</subfield>
+         <subfield code="e">moḻipeyarppāḷar|moḻipeyarppāḷar</subfield>
+         <subfield code="e">translator|translator</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">700-05</subfield>
+         <subfield code="a">முருகுபாண்டியன், ராஜவேல்|தங்கவேலு, மு.</subfield>
+         <subfield code="e">மொழிபெயர்ப்பாளர்|மொழிபெயர்ப்பாளர்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570255</subfield>
+      </datafield>
+   </record>
+   <record>
+      <leader>00000cam a2200000Ma 4500</leader>
+      <controlfield tag="008">202104s2003    ii a          000 0 tam d</controlfield>
+      <datafield ind1=" " ind2=" " tag="035">
+         <subfield code="a">298403463</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="041">
+         <subfield code="a">tam</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="100">
+         <subfield code="6">880-01</subfield>
+         <subfield code="a">irattiṉam, apputturai</subfield>
+      </datafield>
+      <datafield ind1="1" ind2=" " tag="880">
+         <subfield code="6">100-01</subfield>
+         <subfield code="a">இரத்தினம், அப்புத்துரை</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="245">
+         <subfield code="6">880-02</subfield>
+         <subfield code="a">maḻalait tamiḻppāṭal</subfield>
+      </datafield>
+      <datafield ind1="1" ind2="0" tag="880">
+         <subfield code="6">245-02</subfield>
+         <subfield code="a">மழலைத் தமிழ்ப்பாடல்</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="250">
+         <subfield code="6">880-03</subfield>
+         <subfield code="a">mutaṟ patippu</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">250-03</subfield>
+         <subfield code="a">முதற் பதிப்பு</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="260">
+         <subfield code="6">880-04</subfield>
+         <subfield code="b">paṇṭitar ci. apputturai irattiṉam tampatikaḷiṉ pavaḷa viḻāttiṉa veḷiyīṭu</subfield>
+         <subfield code="a">iḷavālai</subfield>
+         <subfield code="a">Ilavalai</subfield>
+         <subfield code="c">2003</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="880">
+         <subfield code="6">260-04</subfield>
+         <subfield code="b">பண்டிதர் சி. அப்புத்துரை இரத்தினம் தம்பதிகளின் பவள விழாத்தின வெளியீடு</subfield>
+         <subfield code="a">இளவாலை</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="300">
+         <subfield code="a">x, 50 pages</subfield>
+         <subfield code="b">color illustrations</subfield>
+         <subfield code="c">25 cm</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="653">
+         <subfield code="a">Nursery rhymes.</subfield>
+      </datafield>
+      <datafield ind1=" " ind2=" " tag="949">
+         <subfield code="a">31761111570263</subfield>
+      </datafield>
+   </record>
+</collection>

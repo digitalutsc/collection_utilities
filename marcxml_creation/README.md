@@ -2,8 +2,6 @@
 
 These scripts are for converting CSV's into MARC records, in XML format. Specifically, these are for the University of Toronto Scarborough's Tamil collections.
 
-Note: Version 1 is more simple, and is more of a prototype. Version 2 is complete and is what is recommended to use.
-
 # Running the script
 
 To use the script, simply use the generate_xml() function. It takes the input file and output file name as follows:
@@ -22,9 +20,8 @@ How does it work?
 
 For example, a header could be: '100 $a'. This would mean whatever is in that column goes in the '100' field and 'a' subfield. This can be seen with 'simple-example.csv' in the examples folder. 
 
-3. If a column header is empty, it will not be included in the MARC XML. If no subfield character is provided (ex. '100' instead of '100 $a') it will be entered in a subfield with a '!'. Edge cases can be seen in 'edgecase-example.csv'.
+3. If a column header is empty, it will not be included in the MARC XML. If no subfield character is provided (ex. '100' instead of '100 $a') it will be entered in a subfield with an 'a'.
 
-4. Any column with '(Tamil)' in the header will be transliterated, and the original Tamil content will be put in a corresponding feild with tag 880. A subfield with code '6' will show which '880' field was generated for it. This can be seen with 'tamil-example.csv'.
+4. Any column with '(Tamil)' in the header will be transliterated, and the original Tamil content will be put in a corresponding feild with tag 880. A subfield with code '6' will show which '880' field was generated for it.
 
-All of these concepts can be seen in 'complex-example.csv'.
 
