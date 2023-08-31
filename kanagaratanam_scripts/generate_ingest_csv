@@ -1,5 +1,25 @@
 #!/usr/bin/env python3
 
+"""
+This script generates a CSV file for ingesting Paged Content and Pages into Islandora.
+It takes a CSV file as input and generates a CSV file as output.
+The input CSV file should have the following columns:
+    - Identifier
+    - Title Subsection (English)
+    - Sub-subection (English)
+    - Folder
+    - Associated Image #s
+The output CSV file will have the following columns:
+    - identifier
+    - title
+    - model
+    - page_num
+    - file_path
+The output CSV file will have one row for each Paged Content and one row for each Page in the Paged Content.
+
+Usage: generate_ingest_csv <input_csv> <output_csv>
+"""
+
 import csv
 import sys
 import re
@@ -10,7 +30,7 @@ def csv_to_dict(csv_file: str) -> list[dict]:
     Converts a CSV file to a list of Python dictionaries.
     
     Args:
-        csv_file (str): The path to the CSV file to be converted.
+        - csv_file (str): The path to the CSV file to be converted.
         
     Returns:
         list[dict]: A list of dictionaries, where each dictionary represents a row
@@ -42,7 +62,7 @@ def get_title(row: dict) -> str:
     This function generates a title based on the information available in the given dictionary row.
     
     Args:
-        row (dict): A dictionary containing information about the Paged Content.
+        - row (dict): A dictionary containing information about the Paged Content.
         
     Returns:
         str: The generated title, combining 'Title Subsection (English)' and 'Sub-subection (English)' 
@@ -66,8 +86,8 @@ def write_paged_content_row(writer: csv.DictWriter, row: dict) -> None:
     as a row to the provided CSV writer.
     
     Args:
-        writer (csv.DictWriter): A CSV writer object used for writing rows.
-        row (dict): A dictionary containing information about the Paged Content.
+        - writer (csv.DictWriter): A CSV writer object used for writing rows.
+        - row (dict): A dictionary containing information about the Paged Content.
         
     Returns:
         None
@@ -87,7 +107,7 @@ def sanitize_page_numbers(page_numbers: str) -> str:
     This function removes any spaces from the input page numbers and returns the sanitized version.
     
     Args:
-        page_numbers (str): Page numbers in the format 'XXXXXXX-XXXXXXX|XXXXXXX-XXXXXXX|...'.
+        - page_numbers (str): Page numbers in the format 'XXXXXXX-XXXXXXX|XXXXXXX-XXXXXXX|...'.
         
     Returns:
         str: The sanitized page numbers string with spaces removed.
@@ -101,7 +121,7 @@ def check_page_numbers(page_numbers: str) -> bool:
     This function verifies whether the given page numbers are in the expected format 'XXXXXXX-XXXXXXX|XXXXXXX-XXXXXXX|...'.
     
     Args:
-        page_numbers (str): Page numbers to be checked in the format 'XXXXXXX-XXXXXXX|XXXXXXX-XXXXXXX|...'.
+        - page_numbers (str): Page numbers to be checked in the format 'XXXXXXX-XXXXXXX|XXXXXXX-XXXXXXX|...'.
         
     Returns:
         bool: True if all page number ranges are in the correct format, False otherwise.
@@ -120,7 +140,7 @@ def get_page_numbers(page_numbers: str) -> Iterator[str]:
     This function takes a string of page number ranges and yields individual page numbers in the format 'XXXXXXX'.
     
     Args:
-        page_numbers (str): Page numbers in the format 'XXXXXXX-XXXXXXX|XXXXXXX-XXXXXXX|...'.
+        - page_numbers (str): Page numbers in the format 'XXXXXXX-XXXXXXX|XXXXXXX-XXXXXXX|...'.
         
     Yields:
         Iterator[str]: An iterator that generates individual page numbers.
@@ -144,8 +164,8 @@ def write_pages_to_csv(writer: csv.DictWriter, row: dict) -> None:
     This function generates and writes rows for individual pages associated with a Paged Content.
     
     Args:
-        writer (csv.DictWriter): A CSV writer object used for writing rows.
-        row (dict): A dictionary containing information about the Paged Content.
+        - writer (csv.DictWriter): A CSV writer object used for writing rows.
+        - row (dict): A dictionary containing information about the Paged Content.
         
     Returns:
         None
@@ -166,7 +186,6 @@ def write_pages_to_csv(writer: csv.DictWriter, row: dict) -> None:
             'file_path': row['Folder'] + '/' + page_num + '.tif'
             })
         current_page_number += 1
-    
 
 def main():
     """
@@ -193,5 +212,3 @@ def main():
         write_pages_to_csv(writer, row)
 
 main()
-
-

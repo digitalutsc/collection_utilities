@@ -232,6 +232,7 @@ def get_foxml_tree_drush(atomzip_name: str) -> Optional[tuple[BytesIO, ET.Elemen
     drush_generated_path = extract_bag_path_from_drush_command_stdout(result.stdout)
     if not drush_generated_path:
         print(Fore.RED, f"Drush command failed for {atomzip_name}. Skipping this bag.", Fore.RESET)
+        print(Fore.RED, f"Drush command output: {result.stdout.decode('utf-8')}", Fore.RESET)
         return None
     # Find the FOXML in the Drush-generated ZIP, and get the root from there
     with zipfile.ZipFile(drush_generated_path, 'r') as drush_zip_archive:
